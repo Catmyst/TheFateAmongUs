@@ -1,9 +1,9 @@
-#include <iostream>
-#include <string>
-#include <cmath>
-#include <cstdlib>
-#include <ctime>
-using namespace std;
+#include <iostream> // does input & output operations
+#include <string> // to have string data type
+#include <cmath> // for "ceil()" in line 814
+#include <cstdlib> // for "rand()"  and "srand()" -> line 1955
+#include <ctime> // for "time(0)" as seed for "srand()" in line 1955 
+using namespace std; // for simplification
 
 double eventMultiplier = 1; // event impact multiplier (only on negatives)
 int availableCharacters = 10; // number of available charcter, may change at the course at the game (excluding king)

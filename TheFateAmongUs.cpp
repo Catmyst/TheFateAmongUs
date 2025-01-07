@@ -1968,8 +1968,12 @@ int main(){
     return 0;
 }
 
+
+
 /* 
+
 ### CREDITS ### 
+
 - Inspiration from the game "reigns" by Nerial
 - ASCII Arts: 
 1. police character: https://www.asciiart.eu/people/occupations/police (by Rosebud)
@@ -1987,14 +1991,10 @@ int main(){
 - Developed using C++ via Visual Studio Code
 - Story and dialog by ChatGPT
 
-Special thanks to:
-- Me, coming up with the idea, and actually implementing it
-- My Mentor, Ms. Fivi for making us do a project, and for getting me to work alone, and also for being an awesome teacher in general
-- My friends, for always being there when i need it
-- Technoblade, because why not
-- Me again, for prolongin this credit so that he can get to the 2000 liner
 
--Made by Catmyst
+
+-Made by Ananda Rayhan Abhista
 Instagram: https://instagram.com/catmyst_
 Github: https://github.com/Catmyst
+
 */

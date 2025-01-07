@@ -1915,7 +1915,7 @@ void startGame(){
     // main game loop
     while(true){
         //ending checks
-        if (daysPassed >= 2){ 
+        if (daysPassed >= daysDifficulty){ 
             ending("win"); // ending for when the player win, won't happen in infinite difficulty
             break;
         }
